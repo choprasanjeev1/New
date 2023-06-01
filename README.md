@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: June 1 - 2,2023[D[D[D[D 2023
+- Facilitator: @byron-infomagnus
 
 ## Class Resources
 
